@@ -1,0 +1,459 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		35D699A6149C8272000E8D0A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699A5149C8272000E8D0A /* UIKit.framework */; };
+		35D699A8149C8272000E8D0A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699A7149C8272000E8D0A /* Foundation.framework */; };
+		35D699AA149C8272000E8D0A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699A9149C8272000E8D0A /* CoreGraphics.framework */; };
+		35D699B0149C8272000E8D0A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35D699AE149C8272000E8D0A /* InfoPlist.strings */; };
+		35D699B2149C8272000E8D0A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D699B1149C8272000E8D0A /* main.m */; };
+		35D699B6149C8272000E8D0A /* AnimationAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D699B5149C8272000E8D0A /* AnimationAppDelegate.m */; };
+		35D699B9149C8272000E8D0A /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35D699B7149C8272000E8D0A /* MainWindow.xib */; };
+		35D699BC149C8272000E8D0A /* AnimationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D699BB149C8272000E8D0A /* AnimationViewController.m */; };
+		35D699BF149C8272000E8D0A /* AnimationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35D699BD149C8272000E8D0A /* AnimationViewController.xib */; };
+		35D699C7149C8272000E8D0A /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699C6149C8272000E8D0A /* SenTestingKit.framework */; };
+		35D699C8149C8272000E8D0A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699A5149C8272000E8D0A /* UIKit.framework */; };
+		35D699C9149C8272000E8D0A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699A7149C8272000E8D0A /* Foundation.framework */; };
+		35D699CA149C8272000E8D0A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D699A9149C8272000E8D0A /* CoreGraphics.framework */; };
+		35D699D2149C8272000E8D0A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35D699D0149C8272000E8D0A /* InfoPlist.strings */; };
+		35D699D4149C8272000E8D0A /* AnimationTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 35D699D3149C8272000E8D0A /* AnimationTests.h */; };
+		35D699D6149C8272000E8D0A /* AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D699D5149C8272000E8D0A /* AnimationTests.m */; };
+		35D699E0149C831B000E8D0A /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = 35D699DF149C831B000E8D0A /* football.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		35D699CB149C8272000E8D0A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 35D69998149C8272000E8D0A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 35D699A0149C8272000E8D0A;
+			remoteInfo = Animation;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		35D699A1149C8272000E8D0A /* Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		35D699A5149C8272000E8D0A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		35D699A7149C8272000E8D0A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		35D699A9149C8272000E8D0A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		35D699AD149C8272000E8D0A /* Animation-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Animation-Info.plist"; sourceTree = "<group>"; };
+		35D699AF149C8272000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		35D699B1149C8272000E8D0A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		35D699B3149C8272000E8D0A /* Animation-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Animation-Prefix.pch"; sourceTree = "<group>"; };
+		35D699B4149C8272000E8D0A /* AnimationAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationAppDelegate.h; sourceTree = "<group>"; };
+		35D699B5149C8272000E8D0A /* AnimationAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationAppDelegate.m; sourceTree = "<group>"; };
+		35D699B8149C8272000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		35D699BA149C8272000E8D0A /* AnimationViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationViewController.h; sourceTree = "<group>"; };
+		35D699BB149C8272000E8D0A /* AnimationViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationViewController.m; sourceTree = "<group>"; };
+		35D699BE149C8272000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/AnimationViewController.xib; sourceTree = "<group>"; };
+		35D699C5149C8272000E8D0A /* AnimationTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		35D699C6149C8272000E8D0A /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		35D699CF149C8272000E8D0A /* AnimationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AnimationTests-Info.plist"; sourceTree = "<group>"; };
+		35D699D1149C8272000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		35D699D3149C8272000E8D0A /* AnimationTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnimationTests.h; sourceTree = "<group>"; };
+		35D699D5149C8272000E8D0A /* AnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnimationTests.m; sourceTree = "<group>"; };
+		35D699DF149C831B000E8D0A /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		35D6999E149C8272000E8D0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D699A6149C8272000E8D0A /* UIKit.framework in Frameworks */,
+				35D699A8149C8272000E8D0A /* Foundation.framework in Frameworks */,
+				35D699AA149C8272000E8D0A /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D699C1149C8272000E8D0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D699C7149C8272000E8D0A /* SenTestingKit.framework in Frameworks */,
+				35D699C8149C8272000E8D0A /* UIKit.framework in Frameworks */,
+				35D699C9149C8272000E8D0A /* Foundation.framework in Frameworks */,
+				35D699CA149C8272000E8D0A /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		35D69996149C8272000E8D0A = {
+			isa = PBXGroup;
+			children = (
+				35D699AB149C8272000E8D0A /* Animation */,
+				35D699CD149C8272000E8D0A /* AnimationTests */,
+				35D699A4149C8272000E8D0A /* Frameworks */,
+				35D699A2149C8272000E8D0A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		35D699A2149C8272000E8D0A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				35D699A1149C8272000E8D0A /* Animation.app */,
+				35D699C5149C8272000E8D0A /* AnimationTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		35D699A4149C8272000E8D0A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				35D699A5149C8272000E8D0A /* UIKit.framework */,
+				35D699A7149C8272000E8D0A /* Foundation.framework */,
+				35D699A9149C8272000E8D0A /* CoreGraphics.framework */,
+				35D699C6149C8272000E8D0A /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		35D699AB149C8272000E8D0A /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				35D699DF149C831B000E8D0A /* football.png */,
+				35D699B4149C8272000E8D0A /* AnimationAppDelegate.h */,
+				35D699B5149C8272000E8D0A /* AnimationAppDelegate.m */,
+				35D699B7149C8272000E8D0A /* MainWindow.xib */,
+				35D699BA149C8272000E8D0A /* AnimationViewController.h */,
+				35D699BB149C8272000E8D0A /* AnimationViewController.m */,
+				35D699BD149C8272000E8D0A /* AnimationViewController.xib */,
+				35D699AC149C8272000E8D0A /* Supporting Files */,
+			);
+			path = Animation;
+			sourceTree = "<group>";
+		};
+		35D699AC149C8272000E8D0A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				35D699AD149C8272000E8D0A /* Animation-Info.plist */,
+				35D699AE149C8272000E8D0A /* InfoPlist.strings */,
+				35D699B1149C8272000E8D0A /* main.m */,
+				35D699B3149C8272000E8D0A /* Animation-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		35D699CD149C8272000E8D0A /* AnimationTests */ = {
+			isa = PBXGroup;
+			children = (
+				35D699D3149C8272000E8D0A /* AnimationTests.h */,
+				35D699D5149C8272000E8D0A /* AnimationTests.m */,
+				35D699CE149C8272000E8D0A /* Supporting Files */,
+			);
+			path = AnimationTests;
+			sourceTree = "<group>";
+		};
+		35D699CE149C8272000E8D0A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				35D699CF149C8272000E8D0A /* AnimationTests-Info.plist */,
+				35D699D0149C8272000E8D0A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		35D699A0149C8272000E8D0A /* Animation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 35D699D9149C8272000E8D0A /* Build configuration list for PBXNativeTarget "Animation" */;
+			buildPhases = (
+				35D6999D149C8272000E8D0A /* Sources */,
+				35D6999E149C8272000E8D0A /* Frameworks */,
+				35D6999F149C8272000E8D0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Animation;
+			productName = Animation;
+			productReference = 35D699A1149C8272000E8D0A /* Animation.app */;
+			productType = "com.apple.product-type.application";
+		};
+		35D699C4149C8272000E8D0A /* AnimationTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 35D699DC149C8272000E8D0A /* Build configuration list for PBXNativeTarget "AnimationTests" */;
+			buildPhases = (
+				35D699C0149C8272000E8D0A /* Sources */,
+				35D699C1149C8272000E8D0A /* Frameworks */,
+				35D699C2149C8272000E8D0A /* Resources */,
+				35D699C3149C8272000E8D0A /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				35D699CC149C8272000E8D0A /* PBXTargetDependency */,
+			);
+			name = AnimationTests;
+			productName = AnimationTests;
+			productReference = 35D699C5149C8272000E8D0A /* AnimationTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		35D69998149C8272000E8D0A /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 35D6999B149C8272000E8D0A /* Build configuration list for PBXProject "Animation" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 35D69996149C8272000E8D0A;
+			productRefGroup = 35D699A2149C8272000E8D0A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				35D699A0149C8272000E8D0A /* Animation */,
+				35D699C4149C8272000E8D0A /* AnimationTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		35D6999F149C8272000E8D0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D699B0149C8272000E8D0A /* InfoPlist.strings in Resources */,
+				35D699B9149C8272000E8D0A /* MainWindow.xib in Resources */,
+				35D699BF149C8272000E8D0A /* AnimationViewController.xib in Resources */,
+				35D699E0149C831B000E8D0A /* football.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D699C2149C8272000E8D0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D699D2149C8272000E8D0A /* InfoPlist.strings in Resources */,
+				35D699D4149C8272000E8D0A /* AnimationTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		35D699C3149C8272000E8D0A /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		35D6999D149C8272000E8D0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D699B2149C8272000E8D0A /* main.m in Sources */,
+				35D699B6149C8272000E8D0A /* AnimationAppDelegate.m in Sources */,
+				35D699BC149C8272000E8D0A /* AnimationViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D699C0149C8272000E8D0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D699D6149C8272000E8D0A /* AnimationTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		35D699CC149C8272000E8D0A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 35D699A0149C8272000E8D0A /* Animation */;
+			targetProxy = 35D699CB149C8272000E8D0A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		35D699AE149C8272000E8D0A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D699AF149C8272000E8D0A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		35D699B7149C8272000E8D0A /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D699B8149C8272000E8D0A /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		35D699BD149C8272000E8D0A /* AnimationViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D699BE149C8272000E8D0A /* en */,
+			);
+			name = AnimationViewController.xib;
+			sourceTree = "<group>";
+		};
+		35D699D0149C8272000E8D0A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D699D1149C8272000E8D0A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		35D699D7149C8272000E8D0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		35D699D8149C8272000E8D0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		35D699DA149C8272000E8D0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Animation/Animation-Prefix.pch";
+				INFOPLIST_FILE = "Animation/Animation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		35D699DB149C8272000E8D0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Animation/Animation-Prefix.pch";
+				INFOPLIST_FILE = "Animation/Animation-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		35D699DD149C8272000E8D0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Animation.app/Animation";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Animation/Animation-Prefix.pch";
+				INFOPLIST_FILE = "AnimationTests/AnimationTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		35D699DE149C8272000E8D0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Animation.app/Animation";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Animation/Animation-Prefix.pch";
+				INFOPLIST_FILE = "AnimationTests/AnimationTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		35D6999B149C8272000E8D0A /* Build configuration list for PBXProject "Animation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D699D7149C8272000E8D0A /* Debug */,
+				35D699D8149C8272000E8D0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		35D699D9149C8272000E8D0A /* Build configuration list for PBXNativeTarget "Animation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D699DA149C8272000E8D0A /* Debug */,
+				35D699DB149C8272000E8D0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		35D699DC149C8272000E8D0A /* Build configuration list for PBXNativeTarget "AnimationTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D699DD149C8272000E8D0A /* Debug */,
+				35D699DE149C8272000E8D0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 35D69998149C8272000E8D0A /* Project object */;
+}

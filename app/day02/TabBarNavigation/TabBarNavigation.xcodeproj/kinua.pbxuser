@@ -1,0 +1,230 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* TabBarNavigationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 447}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 495}";
+		};
+	};
+	1D3623250D0F684500981E51 /* TabBarNavigationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1365}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2369, 818}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TabBarNavigation */ = {
+		activeExec = 0;
+		executables = (
+			3585F7891452B7920095144B /* TabBarNavigation */,
+		);
+	};
+	28216C950DB411BC00E5133A /* FirstViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 447}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	28216C960DB411BC00E5133A /* FirstViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 788}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3585F7891452B7920095144B /* TabBarNavigation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TabBarNavigation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TabBarNavigation */,
+		);
+		codeSenseManager = 3585F79C1452B7AB0095144B /* Code sense */;
+		executables = (
+			3585F7891452B7920095144B /* TabBarNavigation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					910,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 341509534;
+			PBXWorkspaceStateSaveDate = 341509534;
+		};
+		perUserProjectItems = {
+			356F0B20145B06500030F91D /* PBXBookmark */ = 356F0B20145B06500030F91D /* PBXBookmark */;
+			356F0B46145B0AE00030F91D /* PBXTextBookmark */ = 356F0B46145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B47145B0AE00030F91D /* PBXTextBookmark */ = 356F0B47145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B48145B0AE00030F91D /* PBXTextBookmark */ = 356F0B48145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B49145B0AE00030F91D /* PBXTextBookmark */ = 356F0B49145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B4A145B0AE00030F91D /* PBXTextBookmark */ = 356F0B4A145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B4B145B0AE00030F91D /* PBXTextBookmark */ = 356F0B4B145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B4C145B0AE00030F91D /* PBXTextBookmark */ = 356F0B4C145B0AE00030F91D /* PBXTextBookmark */;
+			356F0B4F145B0AE00030F91D /* PBXTextBookmark */ = 356F0B4F145B0AE00030F91D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3585F79B1452B7AB0095144B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	356F0B20145B06500030F91D /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+	};
+	356F0B46145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3585F7A01452B8540095144B /* ThirdViewController.m */;
+		name = "ThirdViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 0;
+	};
+	356F0B47145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3585F79F1452B8540095144B /* ThirdViewController.h */;
+		name = "ThirdViewController.h: 17";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	356F0B48145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C950DB411BC00E5133A /* FirstViewController.h */;
+		name = "FirstViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 238;
+		vrLoc = 0;
+	};
+	356F0B49145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 813;
+		vrLoc = 0;
+	};
+	356F0B4A145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* TabBarNavigationAppDelegate.h */;
+		name = "TabBarNavigationAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 495;
+		vrLoc = 0;
+	};
+	356F0B4B145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TabBarNavigationAppDelegate.m */;
+		name = "TabBarNavigationAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1089;
+		vrLoc = 0;
+	};
+	356F0B4C145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TabBarNavigationAppDelegate.m */;
+		name = "TabBarNavigationAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 818;
+		vrLoc = 2369;
+	};
+	356F0B4F145B0AE00030F91D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28216C960DB411BC00E5133A /* FirstViewController.m */;
+		name = "FirstViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 788;
+		vrLoc = 0;
+	};
+	3585F7891452B7920095144B /* TabBarNavigation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TabBarNavigation;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3585F79B1452B7AB0095144B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3585F79C1452B7AB0095144B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3585F79F1452B8540095144B /* ThirdViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1088, 447}}";
+			sepNavSelRange = "{238, 0}";
+			sepNavVisRange = "{0, 238}";
+		};
+	};
+	3585F7A01452B8540095144B /* ThirdViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 780}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 992}";
+		};
+	};
+}

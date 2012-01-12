@@ -1,0 +1,170 @@
+// !$*UTF8*$!
+{
+	010CB642147B8EBA00D01E38 /* Lesson-1-5 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Lesson-1-5";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	010CB646147B8ED900D01E38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	010CB647147B8ED900D01E38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	010CB667147B9F4D00D01E38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Lesson_1_5ViewController.m */;
+		name = "Lesson_1_5ViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	010CB67F147B9F6000D01E38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Lesson_1_5ViewController.h */;
+		name = "Lesson_1_5ViewController.h: 17";
+		rLen = 0;
+		rLoc = 297;
+		rType = 0;
+		vrLen = 304;
+		vrLoc = 0;
+	};
+	01969CA1147BD64300985E4C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Lesson_1_5-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/raywong/Desktop/Macao Lesson/Lesson 1/Lesson-1-5/Lesson_1_5-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	01969CA2147BD64300985E4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* Lesson_1_5AppDelegate.m */;
+		name = "Lesson_1_5AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 0;
+	};
+	01969CA3147BD64300985E4C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Lesson_1_5ViewController.m */;
+		name = "Lesson_1_5ViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 467;
+		vrLoc = 0;
+	};
+	1D3623250D0F684500981E51 /* Lesson_1_5AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1235}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Lesson-1-5 */ = {
+		activeExec = 0;
+		executables = (
+			010CB642147B8EBA00D01E38 /* Lesson-1-5 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Lesson_1_5ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {455, 273}}";
+			sepNavSelRange = "{297, 0}";
+			sepNavVisRange = "{0, 304}";
+			sepNavWindowFrame = "{{234, 146}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Lesson_1_5ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 1014}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 467}";
+			sepNavWindowFrame = "{{294, 165}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 010CB642147B8EBA00D01E38 /* Lesson-1-5 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Lesson-1-5 */;
+		codeSenseManager = 010CB647147B8ED900D01E38 /* Code sense */;
+		executables = (
+			010CB642147B8EBA00D01E38 /* Lesson-1-5 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					277,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343657725;
+			PBXWorkspaceStateSaveDate = 343657725;
+		};
+		perUserProjectItems = {
+			010CB667147B9F4D00D01E38 /* PBXTextBookmark */ = 010CB667147B9F4D00D01E38 /* PBXTextBookmark */;
+			010CB67F147B9F6000D01E38 /* PBXTextBookmark */ = 010CB67F147B9F6000D01E38 /* PBXTextBookmark */;
+			01969CA1147BD64300985E4C /* PlistBookmark */ = 01969CA1147BD64300985E4C /* PlistBookmark */;
+			01969CA2147BD64300985E4C /* PBXTextBookmark */ = 01969CA2147BD64300985E4C /* PBXTextBookmark */;
+			01969CA3147BD64300985E4C /* PBXTextBookmark */ = 01969CA3147BD64300985E4C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 010CB646147B8ED900D01E38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

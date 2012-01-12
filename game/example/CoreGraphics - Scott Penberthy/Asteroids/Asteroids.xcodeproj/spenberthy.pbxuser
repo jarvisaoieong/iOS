@@ -1,0 +1,1481 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AsteroidsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 494}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AsteroidsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{311, 360}";
+			sepNavVisRange = "{0, 774}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Asteroids */ = {
+		activeExec = 0;
+		executables = (
+			A5B5F4A411381A4900CF7B60 /* Asteroids */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AsteroidsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{402, 0}";
+			sepNavVisRange = "{0, 955}";
+			sepNavWindowFrame = "{{93, 28}, {1324, 809}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AsteroidsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1560}}";
+			sepNavSelRange = "{624, 0}";
+			sepNavVisRange = "{0, 1547}";
+			sepNavWindowFrame = "{{15, 56}, {832, 833}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A5B5F4A411381A4900CF7B60 /* Asteroids */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Asteroids */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Asteroids */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = A5B5F4C311381A5600CF7B60 /* Code sense */;
+		executables = (
+			A5B5F4A411381A4900CF7B60 /* Asteroids */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					789,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					749,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290275797;
+			PBXWorkspaceStateSaveDate = 290275797;
+		};
+		perUserProjectItems = {
+			A50755181148549900F6FF60 = A50755181148549900F6FF60 /* PBXTextBookmark */;
+			A50755851149684700F6FF60 = A50755851149684700F6FF60 /* PBXTextBookmark */;
+			A50755BC1149822100F6FF60 = A50755BC1149822100F6FF60 /* PBXBookmark */;
+			A50755BD1149822100F6FF60 = A50755BD1149822100F6FF60 /* PBXBookmark */;
+			A50755BE1149822100F6FF60 = A50755BE1149822100F6FF60 /* PBXBookmark */;
+			A50755BF1149822100F6FF60 = A50755BF1149822100F6FF60 /* PBXBookmark */;
+			A50755C11149822100F6FF60 = A50755C11149822100F6FF60 /* PBXTextBookmark */;
+			A50755C41149822100F6FF60 = A50755C41149822100F6FF60 /* PBXTextBookmark */;
+			A50755F211498D8000F6FF60 = A50755F211498D8000F6FF60 /* PBXTextBookmark */;
+			A507562A1149993D00F6FF60 = A507562A1149993D00F6FF60 /* PBXTextBookmark */;
+			A507562B1149993D00F6FF60 = A507562B1149993D00F6FF60 /* PBXTextBookmark */;
+			A507564F1149A26D00F6FF60 = A507564F1149A26D00F6FF60 /* PBXBookmark */;
+			A50756771149A5BF00F6FF60 = A50756771149A5BF00F6FF60 /* PBXTextBookmark */;
+			A5075851114A7F2D00F6FF60 = A5075851114A7F2D00F6FF60 /* PBXTextBookmark */;
+			A5075918114AB37E00F6FF60 = A5075918114AB37E00F6FF60 /* PBXTextBookmark */;
+			A507591D114AB3EB00F6FF60 = A507591D114AB3EB00F6FF60 /* PBXTextBookmark */;
+			A5075A22114AC5B100F6FF60 = A5075A22114AC5B100F6FF60 /* PBXTextBookmark */;
+			A5075A42114AC94F00F6FF60 = A5075A42114AC94F00F6FF60 /* PBXTextBookmark */;
+			A5075B67114AD2D500F6FF60 = A5075B67114AD2D500F6FF60 /* PBXTextBookmark */;
+			A5075C25114ADDDF00F6FF60 = A5075C25114ADDDF00F6FF60 /* PBXTextBookmark */;
+			A5075C44114AE18B00F6FF60 = A5075C44114AE18B00F6FF60 /* PBXTextBookmark */;
+			A5075C56114AE27F00F6FF60 = A5075C56114AE27F00F6FF60 /* PBXTextBookmark */;
+			A5075C57114AE27F00F6FF60 = A5075C57114AE27F00F6FF60 /* PBXTextBookmark */;
+			A5075C58114AE27F00F6FF60 = A5075C58114AE27F00F6FF60 /* PBXTextBookmark */;
+			A5075C62114AE56400F6FF60 = A5075C62114AE56400F6FF60 /* PBXTextBookmark */;
+			A5075C7E114AE6B200F6FF60 = A5075C7E114AE6B200F6FF60 /* PBXTextBookmark */;
+			A5075C85114AE70F00F6FF60 = A5075C85114AE70F00F6FF60 /* PBXTextBookmark */;
+			A51FBE6B114D41CD005C2318 = A51FBE6B114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE6C114D41CD005C2318 = A51FBE6C114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE6D114D41CD005C2318 = A51FBE6D114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE6E114D41CD005C2318 = A51FBE6E114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE6F114D41CD005C2318 = A51FBE6F114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE70114D41CD005C2318 = A51FBE70114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE71114D41CD005C2318 = A51FBE71114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE72114D41CD005C2318 = A51FBE72114D41CD005C2318 /* PBXTextBookmark */;
+			A51FBE73114D41CD005C2318 = A51FBE73114D41CD005C2318 /* PBXTextBookmark */;
+			A51FC33F114F5FF4005C2318 /* XCBuildMessageTextBookmark */ = A51FC33F114F5FF4005C2318 /* XCBuildMessageTextBookmark */;
+			A51FC342114F6004005C2318 /* PBXTextBookmark */ = A51FC342114F6004005C2318 /* PBXTextBookmark */;
+			A51FC343114F6004005C2318 /* PBXTextBookmark */ = A51FC343114F6004005C2318 /* PBXTextBookmark */;
+			A51FC344114F6004005C2318 /* PBXTextBookmark */ = A51FC344114F6004005C2318 /* PBXTextBookmark */;
+			A51FC345114F6004005C2318 /* PBXTextBookmark */ = A51FC345114F6004005C2318 /* PBXTextBookmark */;
+			A51FC346114F6004005C2318 /* PBXTextBookmark */ = A51FC346114F6004005C2318 /* PBXTextBookmark */;
+			A51FC347114F6004005C2318 /* PBXTextBookmark */ = A51FC347114F6004005C2318 /* PBXTextBookmark */;
+			A51FC348114F6004005C2318 /* PBXTextBookmark */ = A51FC348114F6004005C2318 /* PBXTextBookmark */;
+			A51FC349114F6004005C2318 /* PBXTextBookmark */ = A51FC349114F6004005C2318 /* PBXTextBookmark */;
+			A51FC34A114F6004005C2318 /* PBXTextBookmark */ = A51FC34A114F6004005C2318 /* PBXTextBookmark */;
+			A51FC34B114F6004005C2318 /* PBXTextBookmark */ = A51FC34B114F6004005C2318 /* PBXTextBookmark */;
+			A51FC34C114F6004005C2318 /* PBXTextBookmark */ = A51FC34C114F6004005C2318 /* PBXTextBookmark */;
+			A51FC34D114F6004005C2318 /* PBXTextBookmark */ = A51FC34D114F6004005C2318 /* PBXTextBookmark */;
+			A51FC34E114F6004005C2318 /* PBXTextBookmark */ = A51FC34E114F6004005C2318 /* PBXTextBookmark */;
+			A51FC34F114F6004005C2318 /* PBXTextBookmark */ = A51FC34F114F6004005C2318 /* PBXTextBookmark */;
+			A51FC350114F6004005C2318 /* PBXTextBookmark */ = A51FC350114F6004005C2318 /* PBXTextBookmark */;
+			A51FC351114F6004005C2318 /* PBXTextBookmark */ = A51FC351114F6004005C2318 /* PBXTextBookmark */;
+			A51FC352114F6004005C2318 /* PBXTextBookmark */ = A51FC352114F6004005C2318 /* PBXTextBookmark */;
+			A51FC353114F6004005C2318 /* PBXTextBookmark */ = A51FC353114F6004005C2318 /* PBXTextBookmark */;
+			A51FC354114F6004005C2318 /* PBXTextBookmark */ = A51FC354114F6004005C2318 /* PBXTextBookmark */;
+			A51FC355114F6004005C2318 /* PBXTextBookmark */ = A51FC355114F6004005C2318 /* PBXTextBookmark */;
+			A51FC356114F6004005C2318 /* PBXTextBookmark */ = A51FC356114F6004005C2318 /* PBXTextBookmark */;
+			A51FC357114F6004005C2318 /* PBXTextBookmark */ = A51FC357114F6004005C2318 /* PBXTextBookmark */;
+			A51FC358114F6004005C2318 /* PBXTextBookmark */ = A51FC358114F6004005C2318 /* PBXTextBookmark */;
+			A51FC35D114F6004005C2318 /* PBXTextBookmark */ = A51FC35D114F6004005C2318 /* PBXTextBookmark */;
+			A51FC36B114F602F005C2318 /* PBXTextBookmark */ = A51FC36B114F602F005C2318 /* PBXTextBookmark */;
+			A51FC36C114F602F005C2318 /* PBXTextBookmark */ = A51FC36C114F602F005C2318 /* PBXTextBookmark */;
+			A51FC36D114F602F005C2318 /* PBXTextBookmark */ = A51FC36D114F602F005C2318 /* PBXTextBookmark */;
+			A51FC36E114F602F005C2318 /* PBXTextBookmark */ = A51FC36E114F602F005C2318 /* PBXTextBookmark */;
+			A51FC370114F6034005C2318 /* XCBuildMessageTextBookmark */ = A51FC370114F6034005C2318 /* XCBuildMessageTextBookmark */;
+			A51FC373114F6040005C2318 /* PBXTextBookmark */ = A51FC373114F6040005C2318 /* PBXTextBookmark */;
+			A51FC376114F6040005C2318 /* PBXTextBookmark */ = A51FC376114F6040005C2318 /* PBXTextBookmark */;
+			A51FC37B114F6057005C2318 /* PBXTextBookmark */ = A51FC37B114F6057005C2318 /* PBXTextBookmark */;
+			A51FC37E114F6057005C2318 /* PBXTextBookmark */ = A51FC37E114F6057005C2318 /* PBXTextBookmark */;
+			A51FC37F114F6057005C2318 /* PBXTextBookmark */ = A51FC37F114F6057005C2318 /* PBXTextBookmark */;
+			A51FC380114F6057005C2318 /* PBXTextBookmark */ = A51FC380114F6057005C2318 /* PBXTextBookmark */;
+			A51FC381114F6057005C2318 /* PBXTextBookmark */ = A51FC381114F6057005C2318 /* PBXTextBookmark */;
+			A51FC385114F60A3005C2318 /* PBXTextBookmark */ = A51FC385114F60A3005C2318 /* PBXTextBookmark */;
+			A51FC386114F60A3005C2318 /* PBXTextBookmark */ = A51FC386114F60A3005C2318 /* PBXTextBookmark */;
+			A51FC387114F60A3005C2318 /* PBXTextBookmark */ = A51FC387114F60A3005C2318 /* PBXTextBookmark */;
+			A51FC388114F60A3005C2318 /* PBXTextBookmark */ = A51FC388114F60A3005C2318 /* PBXTextBookmark */;
+			A51FC389114F60A3005C2318 /* PBXTextBookmark */ = A51FC389114F60A3005C2318 /* PBXTextBookmark */;
+			A51FC38A114F60A3005C2318 /* PBXTextBookmark */ = A51FC38A114F60A3005C2318 /* PBXTextBookmark */;
+			A51FC38E114F60CF005C2318 /* PBXTextBookmark */ = A51FC38E114F60CF005C2318 /* PBXTextBookmark */;
+			A51FC392114F60D9005C2318 /* PBXTextBookmark */ = A51FC392114F60D9005C2318 /* PBXTextBookmark */;
+			A51FC396114F60E9005C2318 /* PBXTextBookmark */ = A51FC396114F60E9005C2318 /* PBXTextBookmark */;
+			A51FC397114F60E9005C2318 /* PBXTextBookmark */ = A51FC397114F60E9005C2318 /* PBXTextBookmark */;
+			A51FC3A8114F61A9005C2318 /* PBXTextBookmark */ = A51FC3A8114F61A9005C2318 /* PBXTextBookmark */;
+			A51FC3A9114F61A9005C2318 /* PBXTextBookmark */ = A51FC3A9114F61A9005C2318 /* PBXTextBookmark */;
+			A51FC3AA114F61A9005C2318 /* PBXTextBookmark */ = A51FC3AA114F61A9005C2318 /* PBXTextBookmark */;
+			A51FC3AB114F61A9005C2318 /* PBXTextBookmark */ = A51FC3AB114F61A9005C2318 /* PBXTextBookmark */;
+			A51FC3AC114F61A9005C2318 /* PBXTextBookmark */ = A51FC3AC114F61A9005C2318 /* PBXTextBookmark */;
+			A51FC3AD114F61A9005C2318 /* PBXTextBookmark */ = A51FC3AD114F61A9005C2318 /* PBXTextBookmark */;
+			A51FC3AE114F61A9005C2318 /* PBXTextBookmark */ = A51FC3AE114F61A9005C2318 /* PBXTextBookmark */;
+			A547C48B1148300F00815789 = A547C48B1148300F00815789 /* PlistBookmark */;
+			A5B50181113C430B00CF7B60 = A5B50181113C430B00CF7B60 /* PBXTextBookmark */;
+			A5B50182113C430B00CF7B60 = A5B50182113C430B00CF7B60 /* PBXTextBookmark */;
+			A5B501F8113C4F6100CF7B60 = A5B501F8113C4F6100CF7B60 /* PBXTextBookmark */;
+			A5B502FF113C6A0E00CF7B60 = A5B502FF113C6A0E00CF7B60 /* PBXTextBookmark */;
+			A5B5F509113822EB00CF7B60 = A5B5F509113822EB00CF7B60 /* PBXTextBookmark */;
+			A5B5F50A113822EB00CF7B60 = A5B5F50A113822EB00CF7B60 /* PBXTextBookmark */;
+			A5B5F683113852B400CF7B60 = A5B5F683113852B400CF7B60 /* PBXTextBookmark */;
+			A5B5FDCF113B117900CF7B60 = A5B5FDCF113B117900CF7B60 /* PBXTextBookmark */;
+			A5B5FFF9113B755B00CF7B60 = A5B5FFF9113B755B00CF7B60 /* PBXTextBookmark */;
+		};
+		sourceControlManager = A5B5F4C211381A5600CF7B60 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Asteroids_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {876, 538}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 187}";
+		};
+	};
+	A50755181148549900F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755191148549900F6FF60 /* CGColorSpace.h */;
+		name = "CGColorSpace.h: 174";
+		rLen = 71;
+		rLoc = 7502;
+		rType = 0;
+		vrLen = 1905;
+		vrLoc = 33;
+	};
+	A50755191148549900F6FF60 /* CGColorSpace.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGColorSpace.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGColorSpace.h;
+		sourceTree = "<absolute>";
+	};
+	A50755851149684700F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755861149684700F6FF60 /* interval_tree.cc */;
+		name = "interval_tree.cc: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2272;
+		vrLoc = 3821;
+	};
+	A50755861149684700F6FF60 /* interval_tree.cc */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = interval_tree.cc;
+		path = /Users/spenberthy/Downloads/interval_tree.cc;
+		sourceTree = "<absolute>";
+	};
+	A5075599114969B700F6FF60 /* GameController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 585}}";
+			sepNavSelRange = "{1330, 0}";
+			sepNavVisRange = "{158, 363}";
+		};
+	};
+	A507559A114969B700F6FF60 /* GameController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 4576}}";
+			sepNavSelRange = "{8225, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	A50755BC1149822100F6FF60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A5B5F7F4113860E200CF7B60 /* sprites.jpg */;
+	};
+	A50755BD1149822100F6FF60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A5B5F68D113855F500CF7B60 /* pacman.jpg */;
+	};
+	A50755BE1149822100F6FF60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A5B5F68B1138538E00CF7B60 /* head.png */;
+	};
+	A50755BF1149822100F6FF60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A5B5F4D111381E5900CF7B60 /* 57x57.png */;
+	};
+	A50755C11149822100F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B50189113C45C900CF7B60 /* VectorSprite.h */;
+		name = "VectorSprite.h: 19";
+		rLen = 0;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	A50755C41149822100F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AsteroidsViewController.h */;
+		name = "AsteroidsViewController.h: 16";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 960;
+		vrLoc = 0;
+	};
+	A50755DB114987C500F6FF60 /* Finger.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 749}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 944}";
+			sepNavWindowFrame = "{{84, 210}, {902, 900}}";
+		};
+	};
+	A50755DC114987C500F6FF60 /* Finger.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1235}}";
+			sepNavSelRange = "{895, 33}";
+			sepNavVisRange = "{300, 678}";
+		};
+	};
+	A50755F211498D8000F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755F311498D8000F6FF60 /* NSObject.h */;
+		name = "NSObject.h: 16";
+		rLen = 10;
+		rLoc = 338;
+		rType = 0;
+		vrLen = 1165;
+		vrLoc = 0;
+	};
+	A50755F311498D8000F6FF60 /* NSObject.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSObject.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h;
+		sourceTree = "<absolute>";
+	};
+	A507562A1149993D00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755DC114987C500F6FF60 /* Finger.m */;
+		name = "Finger.m: 14";
+		rLen = 0;
+		rLoc = 263;
+		rType = 0;
+		vrLen = 979;
+		vrLoc = 0;
+	};
+	A507562B1149993D00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755DB114987C500F6FF60 /* Finger.h */;
+		name = "Finger.h: 32";
+		rLen = 0;
+		rLoc = 724;
+		rType = 0;
+		vrLen = 891;
+		vrLoc = 0;
+	};
+	A507564F1149A26D00F6FF60 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = A547C1BF1146F06700815789 /* buttons.png */;
+	};
+	A50756771149A5BF00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B500B9113C3A5F00CF7B60 /* AtlasSprite.m */;
+		name = "AtlasSprite.m: 87";
+		rLen = 18;
+		rLoc = 2153;
+		rType = 0;
+		vrLen = 1333;
+		vrLoc = 1026;
+	};
+	A50756791149A5BF00F6FF60 /* CGContext.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGContext.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 13156}}";
+			sepNavSelRange = "{25026, 0}";
+			sepNavVisRange = "{25350, 2204}";
+		};
+	};
+	A50757F6114A764E00F6FF60 /* AudioController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{358, 0}";
+			sepNavVisRange = "{0, 462}";
+		};
+	};
+	A50757F7114A764E00F6FF60 /* AudioController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1053}}";
+			sepNavSelRange = "{1530, 0}";
+			sepNavVisRange = "{732, 1123}";
+		};
+	};
+	A5075851114A7F2D00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50757F6114A764E00F6FF60 /* AudioController.h */;
+		name = "AudioController.h: 16";
+		rLen = 0;
+		rLoc = 358;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	A5075918114AB37E00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075919114AB37E00F6FF60 /* BBRock.m */;
+		name = "BBRock.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1004;
+		vrLoc = 0;
+	};
+	A5075919114AB37E00F6FF60 /* BBRock.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BBRock.m;
+		path = /Users/spenberthy/Documents/Work/APress/Asteroids/ben/SpaceRocks/Classes/BBRock.m;
+		sourceTree = "<absolute>";
+	};
+	A507591D114AB3EB00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A507591E114AB3EB00F6FF60 /* BBCollisionController.m */;
+		name = "BBCollisionController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1325;
+		vrLoc = 31;
+	};
+	A507591E114AB3EB00F6FF60 /* BBCollisionController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = BBCollisionController.m;
+		path = /Users/spenberthy/Documents/Work/APress/Asteroids/ben/SpaceRocks/Classes/BBCollisionController.m;
+		sourceTree = "<absolute>";
+	};
+	A5075922114AB5B400F6FF60 /* TextSprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{189, 411}";
+			sepNavVisRange = "{0, 601}";
+		};
+	};
+	A5075923114AB5B400F6FF60 /* TextSprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1430}}";
+			sepNavSelRange = "{366, 0}";
+			sepNavVisRange = "{1022, 1249}";
+		};
+	};
+	A5075A21114AC5B100F6FF60 /* CGFont.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGFont.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGFont.h;
+		sourceTree = "<absolute>";
+	};
+	A5075A22114AC5B100F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50756791149A5BF00F6FF60 /* CGContext.h */;
+		name = "CGContext.h: 808";
+		rLen = 0;
+		rLoc = 32400;
+		rType = 0;
+		vrLen = 1982;
+		vrLoc = 23707;
+	};
+	A5075A42114AC94F00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075A21114AC5B100F6FF60 /* CGFont.h */;
+		name = "CGFont.h: 106";
+		rLen = 39;
+		rLoc = 3634;
+		rType = 0;
+		vrLen = 1564;
+		vrLoc = 3004;
+	};
+	A5075B67114AD2D500F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075B68114AD2D500F6FF60 /* NSString.h */;
+		name = "NSString.h: 237";
+		rLen = 89;
+		rLoc = 13342;
+		rType = 0;
+		vrLen = 2926;
+		vrLoc = 12164;
+	};
+	A5075B68114AD2D500F6FF60 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	A5075C25114ADDDF00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 43";
+		rLen = 0;
+		rLoc = 958;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 0;
+	};
+	A5075C44114AE18B00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63E1138338A00CF7B60 /* AsteroidsModel.h */;
+		name = "AsteroidsModel.h: 33";
+		rLen = 0;
+		rLoc = 674;
+		rType = 0;
+		vrLen = 1396;
+		vrLoc = 349;
+	};
+	A5075C56114AE27F00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075922114AB5B400F6FF60 /* TextSprite.h */;
+		name = "TextSprite.h: 29";
+		rLen = 0;
+		rLoc = 594;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	A5075C57114AE27F00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075923114AB5B400F6FF60 /* TextSprite.m */;
+		name = "TextSprite.m: 38";
+		rLen = 34;
+		rLoc = 596;
+		rType = 0;
+		vrLen = 693;
+		vrLoc = 178;
+	};
+	A5075C58114AE27F00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63F1138338A00CF7B60 /* AsteroidsModel.m */;
+		name = "AsteroidsModel.m: 111";
+		rLen = 0;
+		rLoc = 2743;
+		rType = 0;
+		vrLen = 1080;
+		vrLoc = 1944;
+	};
+	A5075C62114AE56400F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50757F7114A764E00F6FF60 /* AudioController.m */;
+		name = "AudioController.m: 40";
+		rLen = 0;
+		rLoc = 1082;
+		rType = 0;
+		vrLen = 1448;
+		vrLoc = 259;
+	};
+	A5075C7E114AE6B200F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 28";
+		rLen = 0;
+		rLoc = 654;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 0;
+	};
+	A5075C85114AE70F00F6FF60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F54B1138273000CF7B60 /* Defs.h */;
+		name = "Defs.h: 30";
+		rLen = 0;
+		rLoc = 715;
+		rType = 0;
+		vrLen = 1116;
+		vrLoc = 1286;
+	};
+	A51FBE6B114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A507559A114969B700F6FF60 /* GameController.m */;
+		name = "GameController.m: 302";
+		rLen = 0;
+		rLoc = 7083;
+		rType = 0;
+		vrLen = 1274;
+		vrLoc = 7077;
+	};
+	A51FBE6C114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E51138214700CF7B60 /* AsteroidsView.h */;
+		name = "AsteroidsView.h: 23";
+		rLen = 0;
+		rLoc = 501;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	A51FBE6D114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AsteroidsAppDelegate.m */;
+		name = "AsteroidsAppDelegate.m: 21";
+		rLen = 0;
+		rLoc = 490;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 0;
+	};
+	A51FBE6E114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsteroidsViewController.m */;
+		name = "AsteroidsViewController.m: 46";
+		rLen = 0;
+		rLoc = 1209;
+		rType = 0;
+		vrLen = 1276;
+		vrLoc = 33;
+	};
+	A51FBE6F114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 24";
+		rLen = 312;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 83;
+	};
+	A51FBE70114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5018A113C45C900CF7B60 /* VectorSprite.m */;
+		name = "VectorSprite.m: 51";
+		rLen = 356;
+		rLoc = 1000;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 414;
+	};
+	A51FBE71114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F65E1138391900CF7B60 /* Sprite.h */;
+		name = "Sprite.h: 48";
+		rLen = 0;
+		rLoc = 1285;
+		rType = 0;
+		vrLen = 1511;
+		vrLoc = 753;
+	};
+	A51FBE72114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F65F1138391900CF7B60 /* Sprite.m */;
+		name = "Sprite.m: 155";
+		rLen = 0;
+		rLoc = 3278;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 3277;
+	};
+	A51FBE73114D41CD005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F65F1138391900CF7B60 /* Sprite.m */;
+		name = "Sprite.m: 155";
+		rLen = 0;
+		rLoc = 3278;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 3277;
+	};
+	A51FC33F114F5FF4005C2318 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ')' before 'Sprite'";
+		fRef = A50755DB114987C500F6FF60 /* Finger.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 39;
+		rType = 1;
+	};
+	A51FC342114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50756791149A5BF00F6FF60 /* CGContext.h */;
+		name = "CGContext.h: 649";
+		rLen = 0;
+		rLoc = 25026;
+		rType = 0;
+		vrLen = 2204;
+		vrLoc = 25350;
+	};
+	A51FC343114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AsteroidsAppDelegate.m */;
+		name = "AsteroidsAppDelegate.m: 18";
+		rLen = 360;
+		rLoc = 311;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 0;
+	};
+	A51FC344114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsteroidsViewController.m */;
+		name = "AsteroidsViewController.m: 73";
+		rLen = 399;
+		rLoc = 1880;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 2161;
+	};
+	A51FC345114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63E1138338A00CF7B60 /* AsteroidsModel.h */;
+		name = "AsteroidsModel.h: 19";
+		rLen = 401;
+		rLoc = 349;
+		rType = 0;
+		vrLen = 1305;
+		vrLoc = 212;
+	};
+	A51FC346114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F54B1138273000CF7B60 /* Defs.h */;
+		name = "Defs.h: 70";
+		rLen = 140;
+		rLoc = 1738;
+		rType = 0;
+		vrLen = 1116;
+		vrLoc = 1380;
+	};
+	A51FC347114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 24";
+		rLen = 842;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 1045;
+		vrLoc = 318;
+	};
+	A51FC348114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E51138214700CF7B60 /* AsteroidsView.h */;
+		name = "AsteroidsView.h: 15";
+		rLen = 74;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	A51FC349114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 15";
+		rLen = 143;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 0;
+	};
+	A51FC34A114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63F1138338A00CF7B60 /* AsteroidsModel.m */;
+		name = "AsteroidsModel.m: 154";
+		rLen = 0;
+		rLoc = 3833;
+		rType = 0;
+		vrLen = 1009;
+		vrLoc = 271;
+	};
+	A51FC34B114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A507559A114969B700F6FF60 /* GameController.m */;
+		name = "GameController.m: 76";
+		rLen = 217;
+		rLoc = 1476;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 870;
+	};
+	A51FC34C114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B500B8113C3A5F00CF7B60 /* AtlasSprite.h */;
+		name = "AtlasSprite.h: 11";
+		rLen = 884;
+		rLoc = 175;
+		rType = 0;
+		vrLen = 1061;
+		vrLoc = 0;
+	};
+	A51FC34D114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B500B9113C3A5F00CF7B60 /* AtlasSprite.m */;
+		name = "AtlasSprite.m: 78";
+		rLen = 0;
+		rLoc = 1922;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 1520;
+	};
+	A51FC34E114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F65E1138391900CF7B60 /* Sprite.h */;
+		name = "Sprite.h: 40";
+		rLen = 0;
+		rLoc = 1286;
+		rType = 0;
+		vrLen = 1476;
+		vrLoc = 3;
+	};
+	A51FC34F114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F65F1138391900CF7B60 /* Sprite.m */;
+		name = "Sprite.m: 147";
+		rLen = 154;
+		rLoc = 3124;
+		rType = 0;
+		vrLen = 1090;
+		vrLoc = 2034;
+	};
+	A51FC350114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B50189113C45C900CF7B60 /* VectorSprite.h */;
+		name = "VectorSprite.h: 9";
+		rLen = 350;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	A51FC351114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5018A113C45C900CF7B60 /* VectorSprite.m */;
+		name = "VectorSprite.m: 27";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 892;
+		vrLoc = 0;
+	};
+	A51FC352114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AsteroidsAppDelegate.h */;
+		name = "AsteroidsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 494;
+		vrLoc = 0;
+	};
+	A51FC353114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755DC114987C500F6FF60 /* Finger.m */;
+		name = "Finger.m: 57";
+		rLen = 33;
+		rLoc = 895;
+		rType = 0;
+		vrLen = 678;
+		vrLoc = 300;
+	};
+	A51FC354114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755DB114987C500F6FF60 /* Finger.h */;
+		name = "Finger.h: 40";
+		rLen = 0;
+		rLoc = 937;
+		rType = 0;
+		vrLen = 926;
+		vrLoc = 0;
+	};
+	A51FC355114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075922114AB5B400F6FF60 /* TextSprite.h */;
+		name = "TextSprite.h: 10";
+		rLen = 411;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 601;
+		vrLoc = 0;
+	};
+	A51FC356114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075923114AB5B400F6FF60 /* TextSprite.m */;
+		name = "TextSprite.m: 20";
+		rLen = 0;
+		rLoc = 366;
+		rType = 0;
+		vrLen = 1249;
+		vrLoc = 1022;
+	};
+	A51FC357114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 24";
+		rLen = 81;
+		rLoc = 484;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 0;
+	};
+	A51FC358114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 8";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 3;
+	};
+	A51FC35D114F6004005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50755DB114987C500F6FF60 /* Finger.h */;
+		name = "Finger.h: 10";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 944;
+		vrLoc = 0;
+	};
+	A51FC36B114F602F005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 8";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 940;
+		vrLoc = 3;
+	};
+	A51FC36C114F602F005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A507559A114969B700F6FF60 /* GameController.m */;
+		name = "GameController.m: 16";
+		rLen = 46;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 0;
+	};
+	A51FC36D114F602F005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 15";
+		rLen = 143;
+		rLoc = 294;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 0;
+	};
+	A51FC36E114F602F005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 41";
+		rLen = 0;
+		rLoc = 1201;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 24;
+	};
+	A51FC370114F6034005C2318 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Incompatible Objective-C types 'struct UIView *', expected 'struct AsteroidsView *' when passing argument 1 of 'initWithView:' from distinct Objective-C type";
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsteroidsViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 19;
+		rType = 1;
+	};
+	A51FC373114F6040005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 41";
+		rLen = 0;
+		rLoc = 1201;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 24;
+	};
+	A51FC376114F6040005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsteroidsViewController.m */;
+		name = "AsteroidsViewController.m: 20";
+		rLen = 0;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 1547;
+		vrLoc = 0;
+	};
+	A51FC37B114F6057005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 41";
+		rLen = 0;
+		rLoc = 1201;
+		rType = 0;
+		vrLen = 1231;
+		vrLoc = 24;
+	};
+	A51FC37E114F6057005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63F1138338A00CF7B60 /* AsteroidsModel.m */;
+		name = "AsteroidsModel.m: 305";
+		rLen = 0;
+		rLoc = 7381;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 6211;
+	};
+	A51FC37F114F6057005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63E1138338A00CF7B60 /* AsteroidsModel.h */;
+		rLen = 0;
+		rLoc = 9223372036854775771;
+		rType = 0;
+	};
+	A51FC380114F6057005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F63E1138338A00CF7B60 /* AsteroidsModel.h */;
+		name = "AsteroidsModel.h: 59";
+		rLen = 0;
+		rLoc = 1650;
+		rType = 0;
+		vrLen = 1696;
+		vrLoc = 325;
+	};
+	A51FC381114F6057005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AsteroidsViewController.m */;
+		name = "AsteroidsViewController.m: 20";
+		rLen = 0;
+		rLoc = 624;
+		rType = 0;
+		vrLen = 1547;
+		vrLoc = 0;
+	};
+	A51FC385114F60A3005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5075599114969B700F6FF60 /* GameController.h */;
+		name = "GameController.h: 42";
+		rLen = 0;
+		rLoc = 1201;
+		rType = 0;
+		vrLen = 1313;
+		vrLoc = 24;
+	};
+	A51FC386114F60A3005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A507559A114969B700F6FF60 /* GameController.m */;
+		name = "GameController.m: 16";
+		rLen = 46;
+		rLoc = 283;
+		rType = 0;
+		vrLen = 757;
+		vrLoc = 0;
+	};
+	A51FC387114F60A3005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 8";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 943;
+		vrLoc = 0;
+	};
+	A51FC388114F60A3005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E51138214700CF7B60 /* AsteroidsView.h */;
+		name = "AsteroidsView.h: 15";
+		rLen = 74;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	A51FC389114F60A3005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 24";
+		rLen = 842;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 961;
+		vrLoc = 401;
+	};
+	A51FC38A114F60A3005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 10";
+		rLen = 0;
+		rLoc = 186;
+		rType = 0;
+		vrLen = 1064;
+		vrLoc = 3;
+	};
+	A51FC38E114F60CF005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 10";
+		rLen = 20;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 37;
+	};
+	A51FC392114F60D9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 10";
+		rLen = 20;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 83;
+	};
+	A51FC396114F60E9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E61138214700CF7B60 /* AsteroidsView.m */;
+		name = "AsteroidsView.m: 10";
+		rLen = 20;
+		rLoc = 184;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 83;
+	};
+	A51FC397114F60E9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 39";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 3;
+	};
+	A51FC3A8114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F4E51138214700CF7B60 /* AsteroidsView.h */;
+		name = "AsteroidsView.h: 15";
+		rLen = 74;
+		rLoc = 293;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	A51FC3A9114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A50757F6114A764E00F6FF60 /* AudioController.h */;
+		name = "AudioController.h: 16";
+		rLen = 0;
+		rLoc = 358;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	A51FC3AA114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AsteroidsViewController.h */;
+		name = "AsteroidsViewController.h: 17";
+		rLen = 0;
+		rLoc = 402;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 0;
+	};
+	A51FC3AB114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F54B1138273000CF7B60 /* Defs.h */;
+		name = "Defs.h: 70";
+		rLen = 140;
+		rLoc = 1738;
+		rType = 0;
+		vrLen = 1089;
+		vrLoc = 1380;
+	};
+	A51FC3AC114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AsteroidsAppDelegate.h */;
+		name = "AsteroidsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 494;
+		vrLoc = 0;
+	};
+	A51FC3AD114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 39";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 0;
+	};
+	A51FC3AE114F61A9005C2318 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B501DC113C4D7E00CF7B60 /* images.h */;
+		name = "images.h: 8";
+		rLen = 0;
+		rLoc = 152;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 0;
+	};
+	A547C48B1148300F00815789 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Asteroids-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/spenberthy/Documents/Work/APress/Asteroids/Asteroids/Asteroids-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A5B500B8113C3A5F00CF7B60 /* AtlasSprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{175, 884}";
+			sepNavVisRange = "{0, 1061}";
+			sepNavWindowFrame = "{{61, 231}, {902, 900}}";
+		};
+	};
+	A5B500B9113C3A5F00CF7B60 /* AtlasSprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1326}}";
+			sepNavSelRange = "{1922, 0}";
+			sepNavVisRange = "{1520, 841}";
+			sepNavWindowFrame = "{{84, 210}, {902, 900}}";
+		};
+	};
+	A5B50181113C430B00CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B500B8113C3A5F00CF7B60 /* AtlasSprite.h */;
+		name = "AtlasSprite.h: 11";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 1165;
+		vrLoc = 0;
+	};
+	A5B50182113C430B00CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5FD6A113B0D2600CF7B60 /* CGImage.h */;
+		name = "CGImage.h: 8";
+		rLen = 36;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 1511;
+		vrLoc = 0;
+	};
+	A5B50189113C45C900CF7B60 /* VectorSprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{156, 350}";
+			sepNavVisRange = "{0, 507}";
+			sepNavWindowFrame = "{{107, 189}, {902, 900}}";
+		};
+	};
+	A5B5018A113C45C900CF7B60 /* VectorSprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1027}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRange = "{0, 892}";
+			sepNavWindowFrame = "{{130, 168}, {902, 900}}";
+		};
+	};
+	A5B501DC113C4D7E00CF7B60 /* images.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 611}}";
+			sepNavSelRange = "{152, 0}";
+			sepNavVisRange = "{0, 958}";
+			sepNavWindowFrame = "{{176, 126}, {902, 900}}";
+		};
+	};
+	A5B501F8113C4F6100CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F686113852B400CF7B60 /* CGContext.h */;
+		name = "CGContext.h: 617";
+		rLen = 26;
+		rLoc = 23723;
+		rType = 0;
+		vrLen = 1824;
+		vrLoc = 22601;
+	};
+	A5B502FF113C6A0E00CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F575113828E400CF7B60 /* NSDate.h */;
+		name = "NSDate.h: 9";
+		rLen = 31;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 927;
+		vrLoc = 0;
+	};
+	A5B5F4A411381A4900CF7B60 /* Asteroids */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Asteroids;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	A5B5F4C211381A5600CF7B60 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A5B5F4C311381A5600CF7B60 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A5B5F4E51138214700CF7B60 /* AsteroidsView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 567}}";
+			sepNavSelRange = "{293, 74}";
+			sepNavVisRange = "{0, 508}";
+		};
+	};
+	A5B5F4E61138214700CF7B60 /* AsteroidsView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 858}}";
+			sepNavSelRange = "{184, 20}";
+			sepNavVisRange = "{83, 1057}";
+			sepNavWindowFrame = "{{247, 224}, {902, 900}}";
+		};
+	};
+	A5B5F509113822EB00CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AsteroidsAppDelegate.h */;
+		name = "AsteroidsAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 494;
+		vrLoc = 0;
+	};
+	A5B5F50A113822EB00CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F50B113822EB00CF7B60 /* UIViewController.h */;
+		name = "UIViewController.h: 31";
+		rLen = 74;
+		rLoc = 910;
+		rType = 0;
+		vrLen = 2010;
+		vrLoc = 2196;
+	};
+	A5B5F50B113822EB00CF7B60 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	A5B5F54B1138273000CF7B60 /* Defs.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 1560}}";
+			sepNavSelRange = "{1738, 140}";
+			sepNavVisRange = "{1380, 1089}";
+			sepNavWindowFrame = "{{274, 46}, {902, 832}}";
+		};
+	};
+	A5B5F575113828E400CF7B60 /* NSDate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSDate.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDate.h;
+		sourceTree = "<absolute>";
+	};
+	A5B5F63E1138338A00CF7B60 /* AsteroidsModel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {843, 988}}";
+			sepNavSelRange = "{1650, 0}";
+			sepNavVisRange = "{325, 1696}";
+			sepNavWindowFrame = "{{153, 56}, {902, 834}}";
+		};
+	};
+	A5B5F63F1138338A00CF7B60 /* AsteroidsModel.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 4212}}";
+			sepNavSelRange = "{7381, 0}";
+			sepNavVisRange = "{6458, 928}";
+			sepNavWindowFrame = "{{153, 56}, {902, 834}}";
+		};
+	};
+	A5B5F65E1138391900CF7B60 /* Sprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {967, 793}}";
+			sepNavSelRange = "{1286, 0}";
+			sepNavVisRange = "{3, 1476}";
+			sepNavWindowFrame = "{{196, 135}, {902, 900}}";
+		};
+	};
+	A5B5F65F1138391900CF7B60 /* Sprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 3679}}";
+			sepNavSelRange = "{459, 0}";
+			sepNavVisRange = "{0, 709}";
+			sepNavWindowFrame = "{{116, 69}, {1324, 809}}";
+		};
+	};
+	A5B5F683113852B400CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5F684113852B400CF7B60 /* CGGeometry.h */;
+		name = "CGGeometry.h: 270";
+		rLen = 64;
+		rLoc = 8510;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 8018;
+	};
+	A5B5F684113852B400CF7B60 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+	};
+	A5B5F686113852B400CF7B60 /* CGContext.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGContext.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGContext.h;
+		sourceTree = "<absolute>";
+	};
+	A5B5FB0E1139680900CF7B60 /* CGAffineTransform.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGAffineTransform.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h;
+		sourceTree = "<absolute>";
+	};
+	A5B5FD6A113B0D2600CF7B60 /* CGImage.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGImage.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h;
+		sourceTree = "<absolute>";
+	};
+	A5B5FDCF113B117900CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A5B5FB0E1139680900CF7B60 /* CGAffineTransform.h */;
+		name = "CGAffineTransform.h: 55";
+		rLen = 76;
+		rLoc = 1697;
+		rType = 0;
+		vrLen = 1519;
+		vrLoc = 1010;
+	};
+	A5B5FFF9113B755B00CF7B60 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Asteroids_Prefix.pch */;
+		name = "Asteroids_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 187;
+		vrLoc = 0;
+	};
+}

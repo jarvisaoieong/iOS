@@ -1,0 +1,187 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* BlueToothTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 504}";
+		};
+	};
+	1D3623250D0F684500981E51 /* BlueToothTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1232}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* BlueToothTest */ = {
+		activeExec = 0;
+		executables = (
+			357B84F7146E48030028D414 /* BlueToothTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BlueToothTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 433}}";
+			sepNavSelRange = "{372, 0}";
+			sepNavVisRange = "{0, 876}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BlueToothTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 2197}}";
+			sepNavSelRange = "{661, 0}";
+			sepNavVisRange = "{2046, 870}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 357B84F7146E48030028D414 /* BlueToothTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BlueToothTest */;
+		codeSenseManager = 357B8504146E48230028D414 /* Code sense */;
+		executables = (
+			357B84F7146E48030028D414 /* BlueToothTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					899,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342771715;
+			PBXWorkspaceStateSaveDate = 342771715;
+		};
+		perUserProjectItems = {
+			357B8555146E58640028D414 /* PlistBookmark */ = 357B8555146E58640028D414 /* PlistBookmark */;
+			357B8556146E58640028D414 /* PBXTextBookmark */ = 357B8556146E58640028D414 /* PBXTextBookmark */;
+			357B8557146E58640028D414 /* PBXTextBookmark */ = 357B8557146E58640028D414 /* PBXTextBookmark */;
+			357B8558146E58640028D414 /* PBXTextBookmark */ = 357B8558146E58640028D414 /* PBXTextBookmark */;
+			357B8559146E58640028D414 /* PBXTextBookmark */ = 357B8559146E58640028D414 /* PBXTextBookmark */;
+			357B855A146E58640028D414 /* PBXTextBookmark */ = 357B855A146E58640028D414 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 357B8503146E48230028D414 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	357B84F7146E48030028D414 /* BlueToothTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BlueToothTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	357B8503146E48230028D414 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	357B8504146E48230028D414 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	357B8555146E58640028D414 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BlueToothTest-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/kinua/Sites/iOS-Course/day05/BlueToothTest/BlueToothTest-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	357B8556146E58640028D414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* BlueToothTestAppDelegate.m */;
+		name = "BlueToothTestAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 0;
+	};
+	357B8557146E58640028D414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* BlueToothTestAppDelegate.h */;
+		name = "BlueToothTestAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	357B8558146E58640028D414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BlueToothTestViewController.h */;
+		name = "BlueToothTestViewController.h: 14";
+		rLen = 0;
+		rLoc = 372;
+		rType = 0;
+		vrLen = 876;
+		vrLoc = 0;
+	};
+	357B8559146E58640028D414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BlueToothTestViewController.m */;
+		name = "BlueToothTestViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 783;
+		vrLoc = 146;
+	};
+	357B855A146E58640028D414 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BlueToothTestViewController.m */;
+		name = "BlueToothTestViewController.m: 25";
+		rLen = 0;
+		rLoc = 661;
+		rType = 0;
+		vrLen = 870;
+		vrLoc = 2046;
+	};
+}

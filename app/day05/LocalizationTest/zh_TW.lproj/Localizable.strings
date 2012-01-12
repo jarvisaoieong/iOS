@@ -1,0 +1,11 @@
+/* 
+   Localizable.strings
+   scbhk
+
+   Created by Chileung Chow 09/03/2011.
+   Copyright 2011 MTel Ltd. All rights reserved.
+ */
+
+"lang" = "zh_TW";
+
+"Label_Text" = "多語言支援";

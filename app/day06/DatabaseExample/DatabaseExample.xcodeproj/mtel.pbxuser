@@ -1,0 +1,255 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* DatabaseExampleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1170}}";
+			sepNavSelRange = "{630, 0}";
+			sepNavVisRange = "{0, 737}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DatabaseExample */ = {
+		activeExec = 0;
+		executables = (
+			FB8F678F14762C9900D9BD0E /* DatabaseExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DatabaseExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 397}}";
+			sepNavSelRange = "{368, 0}";
+			sepNavVisRange = "{0, 479}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DatabaseExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {754, 1729}}";
+			sepNavSelRange = "{3578, 0}";
+			sepNavVisRange = "{2907, 582}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FB8F678F14762C9900D9BD0E /* DatabaseExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DatabaseExample */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DatabaseExample */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = FB8F67CE14762CBC00D9BD0E /* Code sense */;
+		executables = (
+			FB8F678F14762C9900D9BD0E /* DatabaseExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343376888;
+			PBXWorkspaceStateSaveDate = 343376888;
+		};
+		perUserProjectItems = {
+			FB8F688C147633F000D9BD0E = FB8F688C147633F000D9BD0E /* PBXTextBookmark */;
+			FB8F68A31476350400D9BD0E = FB8F68A31476350400D9BD0E /* PBXTextBookmark */;
+			FB8F68B71476366A00D9BD0E = FB8F68B71476366A00D9BD0E /* PBXTextBookmark */;
+			FB8F68B81476366A00D9BD0E = FB8F68B81476366A00D9BD0E /* PBXTextBookmark */;
+			FB8F68B91476366A00D9BD0E = FB8F68B91476366A00D9BD0E /* PBXTextBookmark */;
+			FB8F68BA1476366A00D9BD0E = FB8F68BA1476366A00D9BD0E /* PBXTextBookmark */;
+			FB8F68BB1476366A00D9BD0E = FB8F68BB1476366A00D9BD0E /* PBXTextBookmark */;
+			FB8F68BC1476366A00D9BD0E = FB8F68BC1476366A00D9BD0E /* PBXTextBookmark */;
+			FB8F68C5147636B800D9BD0E = FB8F68C5147636B800D9BD0E /* PBXTextBookmark */;
+		};
+		sourceControlManager = FB8F67CD14762CBC00D9BD0E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FB8F678F14762C9900D9BD0E /* DatabaseExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DatabaseExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	FB8F67CD14762CBC00D9BD0E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FB8F67CE14762CBC00D9BD0E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FB8F67D614762CEA00D9BD0E /* FMDatabase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 1560}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2366, 426}";
+		};
+	};
+	FB8F67D714762CEA00D9BD0E /* FMDatabase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 10179}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 622}";
+		};
+	};
+	FB8F67D814762CEA00D9BD0E /* FMDatabaseAdditions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 403}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 946}";
+		};
+	};
+	FB8F67D914762CEA00D9BD0E /* FMDatabaseAdditions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1469}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1175}";
+		};
+	};
+	FB8F67DA14762CEA00D9BD0E /* FMResultSet.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 612}";
+		};
+	};
+	FB8F688C147633F000D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DatabaseExampleViewController.h */;
+		name = "DatabaseExampleViewController.h: 17";
+		rLen = 0;
+		rLoc = 368;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	FB8F68A31476350400D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatabaseExampleAppDelegate.m */;
+		name = "DatabaseExampleAppDelegate.m: 26";
+		rLen = 0;
+		rLoc = 630;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 0;
+	};
+	FB8F68B71476366A00D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB8F67DA14762CEA00D9BD0E /* FMResultSet.h */;
+		name = "FMResultSet.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 612;
+		vrLoc = 0;
+	};
+	FB8F68B81476366A00D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB8F67D814762CEA00D9BD0E /* FMDatabaseAdditions.h */;
+		name = "FMDatabaseAdditions.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 946;
+		vrLoc = 0;
+	};
+	FB8F68B91476366A00D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB8F67D914762CEA00D9BD0E /* FMDatabaseAdditions.m */;
+		name = "FMDatabaseAdditions.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 0;
+	};
+	FB8F68BA1476366A00D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB8F67D614762CEA00D9BD0E /* FMDatabase.h */;
+		name = "FMDatabase.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 426;
+		vrLoc = 2366;
+	};
+	FB8F68BB1476366A00D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FB8F67D714762CEA00D9BD0E /* FMDatabase.m */;
+		name = "FMDatabase.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 622;
+		vrLoc = 0;
+	};
+	FB8F68BC1476366A00D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DatabaseExampleViewController.m */;
+		name = "DatabaseExampleViewController.m: 88";
+		rLen = 0;
+		rLoc = 2353;
+		rType = 0;
+		vrLen = 779;
+		vrLoc = 1946;
+	};
+	FB8F68C5147636B800D9BD0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DatabaseExampleViewController.m */;
+		name = "DatabaseExampleViewController.m: 41";
+		rLen = 0;
+		rLoc = 1005;
+		rType = 0;
+		vrLen = 731;
+		vrLoc = 609;
+	};
+}

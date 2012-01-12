@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScrollViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 492}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScrollViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1144}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1094}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScrollView */ = {
+		activeExec = 0;
+		executables = (
+			3585F7D81452BA510095144B /* ScrollView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScrollViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 464}}";
+			sepNavSelRange = "{277, 0}";
+			sepNavVisRange = "{0, 308}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScrollViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 962}}";
+			sepNavSelRange = "{1503, 0}";
+			sepNavVisRange = "{906, 756}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3585F7D81452BA510095144B /* ScrollView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollView */;
+		codeSenseManager = 3585F7DF1452BA700095144B /* Code sense */;
+		executables = (
+			3585F7D81452BA510095144B /* ScrollView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					921,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343987378;
+			PBXWorkspaceStateSaveDate = 343987378;
+		};
+		perUserProjectItems = {
+			35824D30145BB93E001BD52E /* PBXTextBookmark */ = 35824D30145BB93E001BD52E /* PBXTextBookmark */;
+			35824D31145BB93E001BD52E /* PBXTextBookmark */ = 35824D31145BB93E001BD52E /* PBXTextBookmark */;
+			35824D32145BB93E001BD52E /* PBXTextBookmark */ = 35824D32145BB93E001BD52E /* PBXTextBookmark */;
+			359123EA1480FCBD008CB0FA /* PBXTextBookmark */ = 359123EA1480FCBD008CB0FA /* PBXTextBookmark */;
+			35BAC1C91452C82100E7D9F2 /* PBXTextBookmark */ = 35BAC1C91452C82100E7D9F2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3585F7DE1452BA700095144B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	35824D30145BB93E001BD52E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ScrollViewViewController.m */;
+		name = "ScrollViewViewController.m: 60";
+		rLen = 0;
+		rLoc = 1503;
+		rType = 0;
+		vrLen = 756;
+		vrLoc = 906;
+	};
+	35824D31145BB93E001BD52E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ScrollViewViewController.h */;
+		name = "ScrollViewViewController.h: 13";
+		rLen = 0;
+		rLoc = 277;
+		rType = 0;
+		vrLen = 308;
+		vrLoc = 0;
+	};
+	35824D32145BB93E001BD52E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAppDelegate.h */;
+		name = "ScrollViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	3585F7D81452BA510095144B /* ScrollView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3585F7DE1452BA700095144B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3585F7DF1452BA700095144B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	359123EA1480FCBD008CB0FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScrollViewAppDelegate.h */;
+		name = "ScrollViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 492;
+		vrLoc = 0;
+	};
+	35BAC1C91452C82100E7D9F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScrollViewAppDelegate.m */;
+		name = "ScrollViewAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1094;
+		vrLoc = 0;
+	};
+}

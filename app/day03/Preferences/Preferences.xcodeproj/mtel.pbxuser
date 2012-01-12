@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Preferences */ = {
+		activeExec = 0;
+		executables = (
+			FBD5909A12E9EDCD003FE393 /* Preferences */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PreferencesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 383}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 330}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PreferencesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 1027}}";
+			sepNavSelRange = "{2034, 11}";
+			sepNavVisRange = "{1341, 715}";
+			sepNavWindowFrame = "{{0, 57}, {1280, 716}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FBD5909A12E9EDCD003FE393 /* Preferences */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Preferences */;
+		codeSenseManager = FBD590AB12E9EDD8003FE393 /* Code sense */;
+		executables = (
+			FBD5909A12E9EDCD003FE393 /* Preferences */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					800,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 341576207;
+			PBXWorkspaceStateSaveDate = 341576207;
+		};
+		perUserProjectItems = {
+			FBD0FDC4145C0BBF00D77755 /* PBXTextBookmark */ = FBD0FDC4145C0BBF00D77755 /* PBXTextBookmark */;
+			FBD0FDC5145C0BBF00D77755 /* PBXTextBookmark */ = FBD0FDC5145C0BBF00D77755 /* PBXTextBookmark */;
+			FBD0FDC6145C0BBF00D77755 /* PBXTextBookmark */ = FBD0FDC6145C0BBF00D77755 /* PBXTextBookmark */;
+		};
+		sourceControlManager = FBD590AA12E9EDD8003FE393 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	FBD0FDC4145C0BBF00D77755 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PreferencesViewController.h */;
+		name = "PreferencesViewController.h: 16";
+		rLen = 0;
+		rLoc = 321;
+		rType = 0;
+		vrLen = 330;
+		vrLoc = 0;
+	};
+	FBD0FDC5145C0BBF00D77755 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PreferencesViewController.m */;
+		name = "PreferencesViewController.m: 39";
+		rLen = 0;
+		rLoc = 1078;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 717;
+	};
+	FBD0FDC6145C0BBF00D77755 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PreferencesViewController.m */;
+		name = "PreferencesViewController.m: 75";
+		rLen = 11;
+		rLoc = 2034;
+		rType = 0;
+		vrLen = 715;
+		vrLoc = 1341;
+	};
+	FBD5909A12E9EDCD003FE393 /* Preferences */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Preferences;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FBD590AA12E9EDD8003FE393 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FBD590AB12E9EDD8003FE393 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

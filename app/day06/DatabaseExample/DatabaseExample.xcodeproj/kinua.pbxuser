@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* DatabaseExample */ = {
+		activeExec = 0;
+		executables = (
+			350DB0DC147787DD005D1E2A /* DatabaseExample */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DatabaseExampleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1067, 476}}";
+			sepNavSelRange = "{153, 324}";
+			sepNavVisRange = "{0, 479}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DatabaseExampleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1067, 1807}}";
+			sepNavSelRange = "{844, 489}";
+			sepNavVisRange = "{631, 1036}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 350DB0DC147787DD005D1E2A /* DatabaseExample */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DatabaseExample */;
+		codeSenseManager = 350DB0E6147787E8005D1E2A /* Code sense */;
+		executables = (
+			350DB0DC147787DD005D1E2A /* DatabaseExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					904,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343379119;
+			PBXWorkspaceStateSaveDate = 343379119;
+		};
+		perUserProjectItems = {
+			35D01EFF1477BDCA004A4CCC /* PBXTextBookmark */ = 35D01EFF1477BDCA004A4CCC /* PBXTextBookmark */;
+			35D01F001477BDCA004A4CCC /* PBXTextBookmark */ = 35D01F001477BDCA004A4CCC /* PBXTextBookmark */;
+			35D01F011477BDCA004A4CCC /* PBXTextBookmark */ = 35D01F011477BDCA004A4CCC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 350DB0E5147787E8005D1E2A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	350DB0DC147787DD005D1E2A /* DatabaseExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DatabaseExample;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	350DB0E5147787E8005D1E2A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	350DB0E6147787E8005D1E2A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	35D01EFF1477BDCA004A4CCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DatabaseExampleViewController.h */;
+		name = "DatabaseExampleViewController.h: 8";
+		rLen = 324;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	35D01F001477BDCA004A4CCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DatabaseExampleViewController.m */;
+		name = "DatabaseExampleViewController.m: 39";
+		rLen = 438;
+		rLoc = 891;
+		rType = 0;
+		vrLen = 866;
+		vrLoc = 0;
+	};
+	35D01F011477BDCA004A4CCC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DatabaseExampleViewController.m */;
+		name = "DatabaseExampleViewController.m: 37";
+		rLen = 489;
+		rLoc = 844;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 631;
+	};
+}

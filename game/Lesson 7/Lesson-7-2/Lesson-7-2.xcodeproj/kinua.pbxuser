@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	01B3B21B14AB373300908542 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 353F438914B82D3B001797AB /* Lesson-7-2 */;
+		activeTarget = 01B3B22314AB373300908542 /* Lesson-7-2 */;
+		codeSenseManager = 353F43A014B82D42001797AB /* Code sense */;
+		executables = (
+			353F438914B82D3B001797AB /* Lesson-7-2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 347614523;
+			PBXWorkspaceStateSaveDate = 347614523;
+		};
+		sourceControlManager = 353F439F14B82D42001797AB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	01B3B22314AB373300908542 /* Lesson-7-2 */ = {
+		activeExec = 0;
+		executables = (
+			353F438914B82D3B001797AB /* Lesson-7-2 */,
+		);
+	};
+	01B3B24414AB373300908542 /* Lesson-7-2Tests */ = {
+		activeExec = 0;
+	};
+	353F438914B82D3B001797AB /* Lesson-7-2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Lesson-7-2";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	353F439F14B82D42001797AB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	353F43A014B82D42001797AB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

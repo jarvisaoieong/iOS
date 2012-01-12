@@ -1,0 +1,114 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* AnimationTest */ = {
+		activeExec = 0;
+		executables = (
+			359122CC1480DF45008CB0FA /* AnimationTest */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* AnimationTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 1183}}";
+			sepNavSelRange = "{755, 0}";
+			sepNavVisRange = "{496, 929}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 359122CC1480DF45008CB0FA /* AnimationTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AnimationTest */;
+		codeSenseManager = 359122D11480DF64008CB0FA /* Code sense */;
+		executables = (
+			359122CC1480DF45008CB0FA /* AnimationTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1008,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 343990085;
+			PBXWorkspaceStateSaveDate = 343990085;
+		};
+		perUserProjectItems = {
+			359124041480FCDD008CB0FA /* PBXBookmark */ = 359124041480FCDD008CB0FA /* PBXBookmark */;
+			359124051480FCDD008CB0FA /* PBXTextBookmark */ = 359124051480FCDD008CB0FA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 359122D01480DF64008CB0FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	359122CC1480DF45008CB0FA /* AnimationTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AnimationTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	359122D01480DF64008CB0FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	359122D11480DF64008CB0FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	359124041480FCDD008CB0FA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationTestViewController.m */;
+	};
+	359124051480FCDD008CB0FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AnimationTestViewController.m */;
+		name = "AnimationTestViewController.m: 34";
+		rLen = 0;
+		rLoc = 755;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 496;
+	};
+}

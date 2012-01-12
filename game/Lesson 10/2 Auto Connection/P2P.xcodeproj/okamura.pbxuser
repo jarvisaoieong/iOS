@@ -1,0 +1,172 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* P2P */ = {
+		activeExec = 0;
+		executables = (
+			2A66FF9311D8451000CDFFB9 /* P2P */,
+		);
+	};
+	2860E32B111B888700E27156 /* P2PAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 441}}";
+			sepNavSelRange = "{21, 0}";
+			sepNavVisRange = "{0, 593}";
+		};
+	};
+	2860E32C111B888700E27156 /* P2PAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 2952}}";
+			sepNavSelRange = "{619, 0}";
+			sepNavVisRange = "{0, 618}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2A66FF9311D8451000CDFFB9 /* P2P */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* P2P */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* P2P */,
+		);
+		codeSenseManager = 2A66FF9E11D8451700CDFFB9 /* Code sense */;
+		executables = (
+			2A66FF9311D8451000CDFFB9 /* P2P */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 299386813;
+			PBXWorkspaceStateSaveDate = 299386813;
+		};
+		perUserProjectItems = {
+			2A66004D11D845D900CDFFB9 /* PBXTextBookmark */ = 2A66004D11D845D900CDFFB9 /* PBXTextBookmark */;
+			2A66008F11D8476B00CDFFB9 /* PlistBookmark */ = 2A66008F11D8476B00CDFFB9 /* PlistBookmark */;
+			2A66009011D8476B00CDFFB9 /* PBXTextBookmark */ = 2A66009011D8476B00CDFFB9 /* PBXTextBookmark */;
+			2A6600B811D847C500CDFFB9 /* PBXTextBookmark */ = 2A6600B811D847C500CDFFB9 /* PBXTextBookmark */;
+			2A6600B911D847C500CDFFB9 /* PBXTextBookmark */ = 2A6600B911D847C500CDFFB9 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2A66FF9D11D8451700CDFFB9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 441}}";
+			sepNavSelRange = "{299, 0}";
+			sepNavVisRange = "{0, 337}";
+		};
+	};
+	2A66004D11D845D900CDFFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 16";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 351;
+		vrLoc = 0;
+	};
+	2A66008F11D8476B00CDFFB9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* P2P-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/okamura/Works/Ages5&up/iPhone Book/P2P/2 Auto Connection/P2P-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	2A66009011D8476B00CDFFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32B111B888700E27156 /* P2PAppDelegate.h */;
+		name = "P2PAppDelegate.h: 2";
+		rLen = 0;
+		rLoc = 21;
+		rType = 0;
+		vrLen = 593;
+		vrLoc = 0;
+	};
+	2A6600B811D847C500CDFFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2860E32C111B888700E27156 /* P2PAppDelegate.m */;
+		name = "P2PAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 619;
+		rType = 0;
+		vrLen = 618;
+		vrLoc = 0;
+	};
+	2A6600B911D847C500CDFFB9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 14";
+		rLen = 0;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	2A66FF9311D8451000CDFFB9 /* P2P */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = P2P;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	2A66FF9D11D8451700CDFFB9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2A66FF9E11D8451700CDFFB9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

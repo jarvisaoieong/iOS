@@ -1,0 +1,459 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		35D69954149C6A9B000E8D0A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69953149C6A9B000E8D0A /* UIKit.framework */; };
+		35D69956149C6A9B000E8D0A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69955149C6A9B000E8D0A /* Foundation.framework */; };
+		35D69958149C6A9B000E8D0A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69957149C6A9B000E8D0A /* CoreGraphics.framework */; };
+		35D6995E149C6A9B000E8D0A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35D6995C149C6A9B000E8D0A /* InfoPlist.strings */; };
+		35D69960149C6A9B000E8D0A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D6995F149C6A9B000E8D0A /* main.m */; };
+		35D69964149C6A9B000E8D0A /* CircleGameAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D69963149C6A9B000E8D0A /* CircleGameAppDelegate.m */; };
+		35D69967149C6A9B000E8D0A /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35D69965149C6A9B000E8D0A /* MainWindow.xib */; };
+		35D6996A149C6A9B000E8D0A /* CircleGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D69969149C6A9B000E8D0A /* CircleGameViewController.m */; };
+		35D6996D149C6A9B000E8D0A /* CircleGameViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35D6996B149C6A9B000E8D0A /* CircleGameViewController.xib */; };
+		35D69975149C6A9B000E8D0A /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69974149C6A9B000E8D0A /* SenTestingKit.framework */; };
+		35D69976149C6A9B000E8D0A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69953149C6A9B000E8D0A /* UIKit.framework */; };
+		35D69977149C6A9B000E8D0A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69955149C6A9B000E8D0A /* Foundation.framework */; };
+		35D69978149C6A9B000E8D0A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35D69957149C6A9B000E8D0A /* CoreGraphics.framework */; };
+		35D69980149C6A9B000E8D0A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35D6997E149C6A9B000E8D0A /* InfoPlist.strings */; };
+		35D69982149C6A9B000E8D0A /* CircleGameTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 35D69981149C6A9B000E8D0A /* CircleGameTests.h */; };
+		35D69984149C6A9B000E8D0A /* CircleGameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35D69983149C6A9B000E8D0A /* CircleGameTests.m */; };
+		35D69995149C6F52000E8D0A /* football.png in Resources */ = {isa = PBXBuildFile; fileRef = 35D69994149C6F52000E8D0A /* football.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		35D69979149C6A9B000E8D0A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 35D69946149C6A9B000E8D0A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 35D6994E149C6A9B000E8D0A;
+			remoteInfo = CircleGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		35D6994F149C6A9B000E8D0A /* CircleGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircleGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		35D69953149C6A9B000E8D0A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		35D69955149C6A9B000E8D0A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		35D69957149C6A9B000E8D0A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		35D6995B149C6A9B000E8D0A /* CircleGame-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CircleGame-Info.plist"; sourceTree = "<group>"; };
+		35D6995D149C6A9B000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		35D6995F149C6A9B000E8D0A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		35D69961149C6A9B000E8D0A /* CircleGame-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CircleGame-Prefix.pch"; sourceTree = "<group>"; };
+		35D69962149C6A9B000E8D0A /* CircleGameAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleGameAppDelegate.h; sourceTree = "<group>"; };
+		35D69963149C6A9B000E8D0A /* CircleGameAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleGameAppDelegate.m; sourceTree = "<group>"; };
+		35D69966149C6A9B000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		35D69968149C6A9B000E8D0A /* CircleGameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleGameViewController.h; sourceTree = "<group>"; };
+		35D69969149C6A9B000E8D0A /* CircleGameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleGameViewController.m; sourceTree = "<group>"; };
+		35D6996C149C6A9B000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CircleGameViewController.xib; sourceTree = "<group>"; };
+		35D69973149C6A9B000E8D0A /* CircleGameTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CircleGameTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		35D69974149C6A9B000E8D0A /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		35D6997D149C6A9B000E8D0A /* CircleGameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CircleGameTests-Info.plist"; sourceTree = "<group>"; };
+		35D6997F149C6A9B000E8D0A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		35D69981149C6A9B000E8D0A /* CircleGameTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CircleGameTests.h; sourceTree = "<group>"; };
+		35D69983149C6A9B000E8D0A /* CircleGameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CircleGameTests.m; sourceTree = "<group>"; };
+		35D69994149C6F52000E8D0A /* football.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = football.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		35D6994C149C6A9B000E8D0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D69954149C6A9B000E8D0A /* UIKit.framework in Frameworks */,
+				35D69956149C6A9B000E8D0A /* Foundation.framework in Frameworks */,
+				35D69958149C6A9B000E8D0A /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D6996F149C6A9B000E8D0A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D69975149C6A9B000E8D0A /* SenTestingKit.framework in Frameworks */,
+				35D69976149C6A9B000E8D0A /* UIKit.framework in Frameworks */,
+				35D69977149C6A9B000E8D0A /* Foundation.framework in Frameworks */,
+				35D69978149C6A9B000E8D0A /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		35D69944149C6A9B000E8D0A = {
+			isa = PBXGroup;
+			children = (
+				35D69959149C6A9B000E8D0A /* CircleGame */,
+				35D6997B149C6A9B000E8D0A /* CircleGameTests */,
+				35D69952149C6A9B000E8D0A /* Frameworks */,
+				35D69950149C6A9B000E8D0A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		35D69950149C6A9B000E8D0A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				35D6994F149C6A9B000E8D0A /* CircleGame.app */,
+				35D69973149C6A9B000E8D0A /* CircleGameTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		35D69952149C6A9B000E8D0A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				35D69953149C6A9B000E8D0A /* UIKit.framework */,
+				35D69955149C6A9B000E8D0A /* Foundation.framework */,
+				35D69957149C6A9B000E8D0A /* CoreGraphics.framework */,
+				35D69974149C6A9B000E8D0A /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		35D69959149C6A9B000E8D0A /* CircleGame */ = {
+			isa = PBXGroup;
+			children = (
+				35D69994149C6F52000E8D0A /* football.png */,
+				35D69962149C6A9B000E8D0A /* CircleGameAppDelegate.h */,
+				35D69963149C6A9B000E8D0A /* CircleGameAppDelegate.m */,
+				35D69965149C6A9B000E8D0A /* MainWindow.xib */,
+				35D69968149C6A9B000E8D0A /* CircleGameViewController.h */,
+				35D69969149C6A9B000E8D0A /* CircleGameViewController.m */,
+				35D6996B149C6A9B000E8D0A /* CircleGameViewController.xib */,
+				35D6995A149C6A9B000E8D0A /* Supporting Files */,
+			);
+			path = CircleGame;
+			sourceTree = "<group>";
+		};
+		35D6995A149C6A9B000E8D0A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				35D6995B149C6A9B000E8D0A /* CircleGame-Info.plist */,
+				35D6995C149C6A9B000E8D0A /* InfoPlist.strings */,
+				35D6995F149C6A9B000E8D0A /* main.m */,
+				35D69961149C6A9B000E8D0A /* CircleGame-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		35D6997B149C6A9B000E8D0A /* CircleGameTests */ = {
+			isa = PBXGroup;
+			children = (
+				35D69981149C6A9B000E8D0A /* CircleGameTests.h */,
+				35D69983149C6A9B000E8D0A /* CircleGameTests.m */,
+				35D6997C149C6A9B000E8D0A /* Supporting Files */,
+			);
+			path = CircleGameTests;
+			sourceTree = "<group>";
+		};
+		35D6997C149C6A9B000E8D0A /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				35D6997D149C6A9B000E8D0A /* CircleGameTests-Info.plist */,
+				35D6997E149C6A9B000E8D0A /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		35D6994E149C6A9B000E8D0A /* CircleGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 35D69987149C6A9B000E8D0A /* Build configuration list for PBXNativeTarget "CircleGame" */;
+			buildPhases = (
+				35D6994B149C6A9B000E8D0A /* Sources */,
+				35D6994C149C6A9B000E8D0A /* Frameworks */,
+				35D6994D149C6A9B000E8D0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CircleGame;
+			productName = CircleGame;
+			productReference = 35D6994F149C6A9B000E8D0A /* CircleGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		35D69972149C6A9B000E8D0A /* CircleGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 35D6998A149C6A9B000E8D0A /* Build configuration list for PBXNativeTarget "CircleGameTests" */;
+			buildPhases = (
+				35D6996E149C6A9B000E8D0A /* Sources */,
+				35D6996F149C6A9B000E8D0A /* Frameworks */,
+				35D69970149C6A9B000E8D0A /* Resources */,
+				35D69971149C6A9B000E8D0A /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				35D6997A149C6A9B000E8D0A /* PBXTargetDependency */,
+			);
+			name = CircleGameTests;
+			productName = CircleGameTests;
+			productReference = 35D69973149C6A9B000E8D0A /* CircleGameTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		35D69946149C6A9B000E8D0A /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 35D69949149C6A9B000E8D0A /* Build configuration list for PBXProject "CircleGame" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 35D69944149C6A9B000E8D0A;
+			productRefGroup = 35D69950149C6A9B000E8D0A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				35D6994E149C6A9B000E8D0A /* CircleGame */,
+				35D69972149C6A9B000E8D0A /* CircleGameTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		35D6994D149C6A9B000E8D0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D6995E149C6A9B000E8D0A /* InfoPlist.strings in Resources */,
+				35D69967149C6A9B000E8D0A /* MainWindow.xib in Resources */,
+				35D6996D149C6A9B000E8D0A /* CircleGameViewController.xib in Resources */,
+				35D69995149C6F52000E8D0A /* football.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D69970149C6A9B000E8D0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D69980149C6A9B000E8D0A /* InfoPlist.strings in Resources */,
+				35D69982149C6A9B000E8D0A /* CircleGameTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		35D69971149C6A9B000E8D0A /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		35D6994B149C6A9B000E8D0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D69960149C6A9B000E8D0A /* main.m in Sources */,
+				35D69964149C6A9B000E8D0A /* CircleGameAppDelegate.m in Sources */,
+				35D6996A149C6A9B000E8D0A /* CircleGameViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		35D6996E149C6A9B000E8D0A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				35D69984149C6A9B000E8D0A /* CircleGameTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		35D6997A149C6A9B000E8D0A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 35D6994E149C6A9B000E8D0A /* CircleGame */;
+			targetProxy = 35D69979149C6A9B000E8D0A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		35D6995C149C6A9B000E8D0A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D6995D149C6A9B000E8D0A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		35D69965149C6A9B000E8D0A /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D69966149C6A9B000E8D0A /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		35D6996B149C6A9B000E8D0A /* CircleGameViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D6996C149C6A9B000E8D0A /* en */,
+			);
+			name = CircleGameViewController.xib;
+			sourceTree = "<group>";
+		};
+		35D6997E149C6A9B000E8D0A /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				35D6997F149C6A9B000E8D0A /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		35D69985149C6A9B000E8D0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		35D69986149C6A9B000E8D0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		35D69988149C6A9B000E8D0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CircleGame/CircleGame-Prefix.pch";
+				INFOPLIST_FILE = "CircleGame/CircleGame-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		35D69989149C6A9B000E8D0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CircleGame/CircleGame-Prefix.pch";
+				INFOPLIST_FILE = "CircleGame/CircleGame-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		35D6998B149C6A9B000E8D0A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CircleGame.app/CircleGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CircleGame/CircleGame-Prefix.pch";
+				INFOPLIST_FILE = "CircleGameTests/CircleGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		35D6998C149C6A9B000E8D0A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CircleGame.app/CircleGame";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CircleGame/CircleGame-Prefix.pch";
+				INFOPLIST_FILE = "CircleGameTests/CircleGameTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		35D69949149C6A9B000E8D0A /* Build configuration list for PBXProject "CircleGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D69985149C6A9B000E8D0A /* Debug */,
+				35D69986149C6A9B000E8D0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		35D69987149C6A9B000E8D0A /* Build configuration list for PBXNativeTarget "CircleGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D69988149C6A9B000E8D0A /* Debug */,
+				35D69989149C6A9B000E8D0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		35D6998A149C6A9B000E8D0A /* Build configuration list for PBXNativeTarget "CircleGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				35D6998B149C6A9B000E8D0A /* Debug */,
+				35D6998C149C6A9B000E8D0A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 35D69946149C6A9B000E8D0A /* Project object */;
+}

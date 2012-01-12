@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	01822F181489F7CC0011860B /* TouchTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TouchTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	01822F221489F7DB0011860B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	01822F231489F7DB0011860B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	01822F5A1489FD400011860B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TouchTest-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/raywong/Desktop/Day 2/TouchTest/TouchTest-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	01822F8B1489FFB00011860B /* ImageView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {430, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 210}";
+			sepNavWindowFrame = "{{119, 90}, {1035, 638}}";
+		};
+	};
+	01822F8C1489FFB00011860B /* ImageView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 624}}";
+			sepNavSelRange = "{298, 0}";
+			sepNavVisRange = "{72, 288}";
+			sepNavWindowFrame = "{{251, 78}, {1035, 638}}";
+		};
+	};
+	01822FA2148A02140011860B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TouchTestViewController.h */;
+		name = "TouchTestViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 402;
+		vrLoc = 0;
+	};
+	01822FA3148A02140011860B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TouchTestAppDelegate.m */;
+		name = "TouchTestAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	01822FA4148A02140011860B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01822F8B1489FFB00011860B /* ImageView.h */;
+		name = "ImageView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 210;
+		vrLoc = 0;
+	};
+	01822FA6148A02140011860B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01822F521489FC280011860B /* Soccer_ball.png */;
+	};
+	01822FDD148A040C0011860B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01822F8C1489FFB00011860B /* ImageView.m */;
+		name = "ImageView.m: 18";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 0;
+	};
+	01822FFE148A0C880011860B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TouchTestViewController.m */;
+		name = "TouchTestViewController.m: 14";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 455;
+		vrLoc = 583;
+	};
+	018230A4148A0F560011860B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01822F8C1489FFB00011860B /* ImageView.m */;
+		name = "ImageView.m: 18";
+		rLen = 0;
+		rLoc = 298;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 0;
+	};
+	1D3623250D0F684500981E51 /* TouchTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1235}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TouchTest */ = {
+		activeExec = 0;
+		executables = (
+			01822F181489F7CC0011860B /* TouchTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TouchTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 510}}";
+			sepNavSelRange = "{352, 0}";
+			sepNavVisRange = "{0, 360}";
+			sepNavWindowFrame = "{{38, 82}, {1035, 638}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TouchTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {976, 923}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 961}";
+			sepNavWindowFrame = "{{169, 75}, {1035, 638}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 01822F181489F7CC0011860B /* TouchTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TouchTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TouchTest */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 01822F231489F7DB0011860B /* Code sense */;
+		executables = (
+			01822F181489F7CC0011860B /* TouchTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					252,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344586188;
+			PBXWorkspaceStateSaveDate = 344586188;
+		};
+		perUserProjectItems = {
+			01822F5A1489FD400011860B /* PlistBookmark */ = 01822F5A1489FD400011860B /* PlistBookmark */;
+			01822FA2148A02140011860B /* PBXTextBookmark */ = 01822FA2148A02140011860B /* PBXTextBookmark */;
+			01822FA3148A02140011860B /* PBXTextBookmark */ = 01822FA3148A02140011860B /* PBXTextBookmark */;
+			01822FA4148A02140011860B /* PBXTextBookmark */ = 01822FA4148A02140011860B /* PBXTextBookmark */;
+			01822FA6148A02140011860B /* PBXBookmark */ = 01822FA6148A02140011860B /* PBXBookmark */;
+			01822FDD148A040C0011860B /* PBXTextBookmark */ = 01822FDD148A040C0011860B /* PBXTextBookmark */;
+			01822FFE148A0C880011860B /* PBXTextBookmark */ = 01822FFE148A0C880011860B /* PBXTextBookmark */;
+			018230A4148A0F560011860B /* PBXTextBookmark */ = 018230A4148A0F560011860B /* PBXTextBookmark */;
+		};
+		sourceControlManager = 01822F221489F7DB0011860B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

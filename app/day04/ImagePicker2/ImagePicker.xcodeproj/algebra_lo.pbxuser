@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* ImagePicker */ = {
+		activeExec = 0;
+		executables = (
+			7B11F32C146437FA005F3192 /* ImagePicker */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ImagePickerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 355}}";
+			sepNavSelRange = "{322, 5}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ImagePickerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 1274}}";
+			sepNavSelRange = "{1690, 0}";
+			sepNavVisRange = "{0, 682}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 7B11F32C146437FA005F3192 /* ImagePicker */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ImagePicker */;
+		codeSenseManager = 7B11F33714643819005F3192 /* Code sense */;
+		executables = (
+			7B11F32C146437FA005F3192 /* ImagePicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					848,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 342182393;
+			PBXWorkspaceStateSaveDate = 342182393;
+		};
+		perUserProjectItems = {
+			7BB407FE14653DC4002561CD /* PBXTextBookmark */ = 7BB407FE14653DC4002561CD /* PBXTextBookmark */;
+			7BB4080014653DC4002561CD /* PBXTextBookmark */ = 7BB4080014653DC4002561CD /* PBXTextBookmark */;
+			7BB408AB146549FD002561CD /* PBXTextBookmark */ = 7BB408AB146549FD002561CD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 7B11F33614643819005F3192 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	7B11F32C146437FA005F3192 /* ImagePicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ImagePicker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	7B11F33614643819005F3192 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	7B11F33714643819005F3192 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	7BB407FE14653DC4002561CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ImagePickerViewController.h */;
+		name = "ImagePickerViewController.h: 12";
+		rLen = 5;
+		rLoc = 322;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	7BB4080014653DC4002561CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ImagePickerViewController.m */;
+		name = "ImagePickerViewController.m: 70";
+		rLen = 0;
+		rLoc = 1690;
+		rType = 0;
+		vrLen = 759;
+		vrLoc = 1133;
+	};
+	7BB408AB146549FD002561CD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ImagePickerViewController.m */;
+		name = "ImagePickerViewController.m: 70";
+		rLen = 0;
+		rLoc = 1690;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 0;
+	};
+}

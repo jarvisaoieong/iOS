@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Lesson-1-2 */ = {
+		activeExec = 0;
+		executables = (
+			359122741480D3CA008CB0FA /* Lesson-1-2 */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* Lesson_1_2ViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 476}}";
+			sepNavSelRange = "{340, 24}";
+			sepNavVisRange = "{0, 413}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Lesson_1_2ViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1100, 1157}}";
+			sepNavSelRange = "{1289, 15}";
+			sepNavVisRange = "{980, 843}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 359122741480D3CA008CB0FA /* Lesson-1-2 */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Lesson-1-2 */;
+		codeSenseManager = 359122791480D3EA008CB0FA /* Code sense */;
+		executables = (
+			359122741480D3CA008CB0FA /* Lesson-1-2 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					922,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345795634;
+			PBXWorkspaceStateSaveDate = 345795634;
+		};
+		perUserProjectItems = {
+			35630DC8149C972A00B2AA02 /* PBXBookmark */ = 35630DC8149C972A00B2AA02 /* PBXBookmark */;
+			35630DC9149C972A00B2AA02 /* PBXTextBookmark */ = 35630DC9149C972A00B2AA02 /* PBXTextBookmark */;
+			35630DCA149C972A00B2AA02 /* PBXTextBookmark */ = 35630DCA149C972A00B2AA02 /* PBXTextBookmark */;
+			35630DCB149C972A00B2AA02 /* PBXTextBookmark */ = 35630DCB149C972A00B2AA02 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 359122781480D3EA008CB0FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	35630DC8149C972A00B2AA02 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01FB7C60147A934800A80A12 /* Soccer_ball.png */;
+	};
+	35630DC9149C972A00B2AA02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Lesson_1_2ViewController.m */;
+		name = "Lesson_1_2ViewController.m: 57";
+		rLen = 15;
+		rLoc = 1289;
+		rType = 0;
+		vrLen = 843;
+		vrLoc = 980;
+	};
+	35630DCA149C972A00B2AA02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Lesson_1_2ViewController.h */;
+		name = "Lesson_1_2ViewController.h: 21";
+		rLen = 0;
+		rLoc = 411;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 0;
+	};
+	35630DCB149C972A00B2AA02 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Lesson_1_2ViewController.h */;
+		name = "Lesson_1_2ViewController.h: 18";
+		rLen = 24;
+		rLoc = 340;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 0;
+	};
+	359122741480D3CA008CB0FA /* Lesson-1-2 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Lesson-1-2";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	359122781480D3EA008CB0FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	359122791480D3EA008CB0FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
